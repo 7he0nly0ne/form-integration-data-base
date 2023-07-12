@@ -12,3 +12,6 @@ make sure that the CORS configs are related to your ports. (lines 9-12)
 
 
 DB used for project: https://www.sqlite.org/index.html 
+
+
+I'm really gratefull for Santiago Quinteros for helping me solving issues on that project
