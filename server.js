@@ -29,7 +29,7 @@ const transporter = nodemailer.createTransport({
 });
 
 // Configuração do banco de dados SQLite
-const db = new sqlite3.Database('C:\\your\\path\\here\\database.db');
+const db = new sqlite3.Database('root:your_db_path//your_db.db (for windows) and root\your_db_path\your_db.db (for unix based systems)');
 
 
 // Rota para enviar o e-mail e salvar os dados no banco de dados
